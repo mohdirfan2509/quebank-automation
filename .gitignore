@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+.env.*
+
+# Runtime outputs
+output/
+temp/
+logs/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Streamlit
+.streamlit/secrets.toml
